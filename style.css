@@ -169,7 +169,7 @@ a:active {
 
 .navi{
 	position: absolute;
-	display: inline-grid;
+	display: inline;
 	margin: 0px 0px 0px 10px;
 	letter-spacing: 0.1em;
 	color: #666;
@@ -191,10 +191,21 @@ a:active {
 	font-weight: normal;
 	line-height: 1.65em;
 	letter-spacing: 0.07em;
+	width: 10%;
 }
 
 .news{
-	margin: 40px 0px 0px 40px;
+	font-size: 1.1em;
+	margin-left: 20%;
+	margin-right: auto;
+	margin-top: -350px;
+}
+.about{
+	font-size: 1.1em;
+	line-height: 2em;
+	margin-left: 20%;
+	margin-right: auto;
+	margin-top: -350px;
 }
 
 .thumbnail_box{
@@ -286,7 +297,7 @@ a:active {
 
 }
 .arrow{
-	margin-left: 30em;
+	margin-left: 500px;
 }
 
 .floaters{
