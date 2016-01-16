@@ -6,6 +6,8 @@ body {background-color:#FFFFFF;}
 .greybg {background-color:#f2f2f2;}
 
 html {
+	height: 100%
+	width:100%;
     overflow-y: scroll;
 }
 
@@ -135,20 +137,12 @@ a:active {
 .main {
 	margin-left: 40px;
 	margin-right:auto;
-	margin-top:50px;
+	margin-top:57px;
 	width: 910px;
+	height:900px;
 }
 
 .main_2 {
-	/*
-	position:fixed;
-	top: 30px;
-	left: 30px;
-	right: 0;
-	width: 910px;
-	height: 900px;
-	display: inline-flex;
-	*/
 	position: fixed;
   	margin-left: 40px;
 	margin-right:auto;
